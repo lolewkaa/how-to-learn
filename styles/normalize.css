@@ -347,19 +347,3 @@ template {
 [hidden] {
   display: none;
 }
-.footer__author {
-  margin: 0;
-  padding: 0;
-}
-/*.feynman__title {
-  margin: 0;
-  padding: 0;
-}
-.feynman__subtitle {
-  margin: 0;
-  padding: 0;
-}*/
-.section-title_theme_dark {
-  margin: 0;
-  padding: 0;
-}
